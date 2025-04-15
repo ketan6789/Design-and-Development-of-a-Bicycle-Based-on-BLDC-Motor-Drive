@@ -1,3 +1,5 @@
+[![View Design and Development of a BLDC Motor Drive in Closed Loop on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://in.mathworks.com/matlabcentral/fileexchange/180811-design-and-development-of-a-bldc-motor-drive-in-closed-loop)
+
 # Design and Development of a Bicycle Based on BLDC Motor Drive 
 
 ![image](https://github.com/user-attachments/assets/6dc2208d-24f2-4b74-bdf7-e01fe8afd57b)
