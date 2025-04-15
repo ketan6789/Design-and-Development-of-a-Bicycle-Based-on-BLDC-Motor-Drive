@@ -1,4 +1,4 @@
-# Design and Development of a Bicycle Based on BLDC Motor Drive (Simscape Model)
+# Design and Development of a Bicycle Based on BLDC Motor Drive 
 
 ![image](https://github.com/user-attachments/assets/6dc2208d-24f2-4b74-bdf7-e01fe8afd57b)
 
