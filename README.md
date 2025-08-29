@@ -51,7 +51,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Contact
 
-For any queries or suggestions, feel free to open an issue or contact the repository owner.
+For any queries or suggestions, feel free to open an issue.
 
 🚴⚡ Happy Simulating!
 
